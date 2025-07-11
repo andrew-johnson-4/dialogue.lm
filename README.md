@@ -17,5 +17,5 @@ Flags and property based data systems for querying/selecting based on:
 
 ### Interaction Programming
 
-More generally this project is work-in-progress towards integrating formal methods and natural language.
+More generally this project is a work-in-progress towards integrating formal methods and natural language.
 We can call this style of turn-based programming "Interaction Programming."
